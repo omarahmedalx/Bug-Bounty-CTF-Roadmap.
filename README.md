@@ -1,6 +1,6 @@
  Bug-Bounty-CTF-Roadmap
 
-<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/37dff9a6-42a6-4a09-b0b5-4ea8e8c85784" />
+<img width="1408" height="768" alt="Gemini_Generated_Image_j7l4oj7l4oj7l4oj" src="https://github.com/user-attachments/assets/bacdbe7f-8708-4d1d-b70a-3122738e296c" />
 
 
 # Introduction
@@ -8,40 +8,103 @@
  - **What is a bug?**
 	 - Security bug or vulnerability is “a weakness in the computational logic (e.g., code) found in software and hardware components that, when exploited, results in a negative impact to confidentiality, integrity, OR availability.
  - **What is Bug Bounty?**
-	 - A bug bounty or bug bounty  program is IT jargon for a reward or bounty program given for finding and reporting a bug in a particular software product. Many IT companies offer bug bounties to drive product improvement and get more interaction from end users or clients. Companies that operate bug bounty  programs may get hundreds of bug reports, including security bugs and security vulnerabilities, and many who report those bugs stand to receive awards.
+	 - A bug bounty or bug bounty  program is IT jargon for a reward or bounty program given for finding and reporting a bug in a particular software product. Many IT companies offer bug bounties to      drive product improvement and get more interaction from end users or clients. Companies that operate bug bounty  programs may get hundreds of bug reports, including security bugs and security vulnerabilities, and many who report those bugs stand to receive awards.
 - **what is the CTF?**
   - A CTF (Capture The Flag) is a type of cybersecurity competition where participants solve security-related challenges to find hidden “flags.” These challenges often simulate real-world vulnerabilities such as web exploitation, cryptography, reverse engineering, and forensics and more . CTFs are a practical and fun way to learn hacking skills, improve problem-solving abilities, and prepare for real bug bounty hunting or penetration testing.
     
 # What to learn?
 
- - **Technical**
-	 - **Computer Fundamentals**
+ - **Essentials**
+	 - **Network Basics**
+       - *Nerwork fundamentals*
+        - ( what is a network , what is LAN,WLAN,MAN,VLAN).
+        - Client-server VS peer to peer .
+        - What is a private ip , public ip ,subnet.
+        - what is a router , switch , firewall , IDS/IPS.
+        - IPV4 and IPV6.
+        - How DHCP works.
+        - What is the MAC address.
+        - OSI model VS TCP/IP model.
+        - Wireless VS Ethernet.
+        - Network Services and Protocols
+        -What is the mail server.
+        -what are ports.
+        -what are sockets.
+        -TCP VS UDP.
+        -Common ports.
+        -Overview of routing & switching.
+        -Ping , ipconfig , Traceroute, Netstat , tcpdump , nslookup .
+        - Wireshark.
+          
 		 
-	 - **Computer Networking**
-		
 	 - **Operating Systems**
-		
-	 - **Command Line**
-		 - **Windows:**
-		
-		 - **Linux:**
-			
+       -*Linux Foundation*
+        -What is linux?
+        -Linux Shell and enviroment.
+        -Different UI Options.
+        - what is root .
+        - Basic commands.
+        - text tools.
+        - Package management.
+        - Users and Groups.
+        - File Systems
+        - File Operations.
+        - File Premissions.
+        - Processes.
+        - Network.
+        - What is sudo , SUID , SGID.
+        - What is Crontab.
+        - Where are common logs? .
+        - Where password are stored . 
+	  
 	 - **Programming**
-		 - **C**
+       - Gereral programming (C++).
+       - Automation (python / bash).
+       - Web Development ( you need to understand PHP , SQl, Java script , Html , Css ) after it Build sample Web Application.
+         
+	 - **Intro to Cryptography**
+		 - Basic Encodings.
+         -XOR Operations.
+         - Encoding VS Hashing VS Encryption.
+             
+ - **Web Security**
 			
-		 - **Python**
+	 - *Web Application Fundamentals*
+	   -Http Protocols( HTTP Requests and Response , Headers and Status codes , Cookies and Sessions ,WebSockets).
+       -Common Terms ( Proxy , CDN , Caching server, WAF, Load Balancer ) 
 			
-		 - **JavaScript**
+	 - *Information Gathering & Reconnaissance*
+       - Extract information about a target organization’s domains, subdomains, and IP addresses.
+       - Examine Web Server Metafiles for information exposure.
+       - Identify the type and version of a web server technology running on a given domain.
+       - Identify the specific technologies or frameworks being used in a web application.
+       - Analyze the structure of web applications to identify potential attack vectors.
+       - Locate hidden files and directories not accessible through normal browsing.
+       - Identify and exploit vulnerabilities caused by the improper implementation of HTTP methods.
+       
+			
+	- *Vulnerability Assessment *
+      -Identify and exploit common misconfigurations in web servers.
+      -Test web applications for default credentials and weak passwords.
+      -Bypass weak/broken authentication mechanisms.
+      -Identify information disclosure vulnerabilities.
+      - Identify and exploit directory traversal vulnerabilities for information disclosure
+      -Identify and exploit file upload vulnerabilities for remote code execution
+      -Identify and exploit Local File Inclusion(LFI) and Remote File Inclusion(RFI) vulnerabilities
+      -Identify and exploit Session Management vulnerabilities
+      -Exploit vulnerable and outdated web application components
+      -Perform bruteforce attacks against login forms
+      -Identify and exploit command injection vulnerabilities for remote code execution
 		
-		 - **PHP**
-  
+- *Manual Exploitation of Common Web Application Vulnerabilities*
+      -Identify and exploit Reflected XSS vulnerabilities
+      -Identify and exploit Stored XSS vulnerabilities
+      -Identify and exploit SQL Injection vulnerabilities
+      -Identify and exploit vulnerabilities in content management systems
+      -Extract information and credentials from backend databases
      
-     ### Vulnerabilities
-      -
-   
-
     
-	# or YOU CAN FOLLOW THIS PATH FORM INE "it will take u from Zero 2 Hero". 
+# or YOU CAN FOLLOW THIS PATH FORM INE "it will take u from Zero 2 Hero". 
   - CompTIA Security+ : https://ine.com/security/certifications/comptia-sec-certification-prep
   - eJPT : https://ine.com/security/certifications/ejpt-certification
   - eWPT : https://ine.com/security/certifications/ewpt-certification
