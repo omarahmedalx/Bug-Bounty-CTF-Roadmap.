@@ -1,8 +1,9 @@
- Bug-Bounty-CTF-Roadmap
+ #Hello Hacker
 
-<img width="1408" height="768" alt="Gemini_Generated_Image_j7l4oj7l4oj7l4oj" src="https://github.com/user-attachments/assets/bacdbe7f-8708-4d1d-b70a-3122738e296c" />
+<img width="1408" height="768" alt="Gemini_Generated_Image_57ed9w57ed9w57ed" src="https://github.com/user-attachments/assets/4a2addda-4e54-4079-9ffc-36bce7c99598" />
 
 
+Please don't hesitate to contribute to this repo!
 # Introduction
 
  - **What is a bug?**
@@ -83,7 +84,7 @@
        - Identify and exploit vulnerabilities caused by the improper implementation of HTTP methods.
        
 			
-	- *Vulnerability Assessment *
+	 - *Vulnerability Assessment*
       -Identify and exploit common misconfigurations in web servers.
       -Test web applications for default credentials and weak passwords.
       -Bypass weak/broken authentication mechanisms.
@@ -96,7 +97,7 @@
       -Perform bruteforce attacks against login forms
       -Identify and exploit command injection vulnerabilities for remote code execution
 		
-- *Manual Exploitation of Common Web Application Vulnerabilities*
+    -*Manual Exploitation of Common Web Application Vulnerabilities*
       -Identify and exploit Reflected XSS vulnerabilities
       -Identify and exploit Stored XSS vulnerabilities
       -Identify and exploit SQL Injection vulnerabilities
@@ -189,5 +190,6 @@
 	 - Live Overflow :https://www.youtube.com/c/LiveOverflow
      - https://www.youtube.com/@lostsec_ftw
 
+<img width="1408" height="768" alt="Gemini_Generated_Image_vac8qxvac8qxvac8" src="https://github.com/user-attachments/assets/2d767055-3434-47ad-9d9a-94414711d475" />
 
 	
